@@ -2,7 +2,7 @@
 
 ### [Example Website](https://chat-app-arzav18.netlify.app/)
 
-(![image](https://user-images.githubusercontent.com/66370916/180883591-ff5569ef-d308-4119-be7f-f87e481908e0.png))
+![image](https://user-images.githubusercontent.com/66370916/180883591-ff5569ef-d308-4119-be7f-f87e481908e0.png)
 
 ## Introduction
 
